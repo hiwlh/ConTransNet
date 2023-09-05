@@ -2,4 +2,4 @@
 
 The code will soon be open source.
 
-Github:
+Github: https://github.com/hiwlh/ConTransNet
